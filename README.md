@@ -1,5 +1,3 @@
-Here's a suggested README file for your GitHub repository where you beat the original paper's performance on the Food 101 dataset using various deep learning techniques:
-
 # Food 101 Model Improvements
 
 This repository contains code and experiments that improve upon the original Food 101 paper by utilizing various deep learning techniques such as fine-tuning, feature extraction, scaling up, and mixed precision training.
@@ -20,7 +18,7 @@ The Food 101 dataset is a challenging image classification task that involves cl
 
 ## Results
 
-Our best model achieves a top-1 accuracy of **XX.X%** on the Food 101 test set, surpassing the original paper's performance by a significant margin. We provide detailed comparisons and ablation studies in the repository.
+Our best model achieves a top-1 accuracy of **91.1%** on the Food 101 test set, surpassing the original paper's performance by a significant margin. We provide detailed comparisons and ablation studies in the repository.
 
 ## Getting Started
 
