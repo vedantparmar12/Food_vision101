@@ -35,20 +35,6 @@ Detailed instructions and documentation are available in the `docs/` directory.
 
 We welcome contributions to this project! If you have any improvements, bug fixes, or new ideas, please open an issue or submit a pull request.
 
-## Citation
-
-If you use our work or find it helpful, please consider citing our paper:
-
-```bibtex
-@article{your-paper-citation,
-  title={Food 101 Model Improvements with Deep Learning Techniques},
-  author={Your Name and Collaborators},
-  journal={Your Journal or Conference},
-  year={2024},
-  ...
-}
-```
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
